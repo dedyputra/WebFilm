@@ -1,0 +1,24 @@
+.myBG{
+  height: 100vh;
+  background: url(../assets/img/bg/background.jpg);
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top: 65px;
+  /* text-align: justify; */
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-top: 15px;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+  margin-top: 1px;
+}
