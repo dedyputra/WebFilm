@@ -7,7 +7,7 @@ const Trending = () => {
       <Container>
         <Row>
           <Col className="movieImage">
-            <Card className="text-dark text-center MovieImage">
+            <Card className="text-dark text-center movieImage">
               <Image src={alenaImage} alt="Alena Movie" />
               <Card.Title>ALENA</Card.Title>
               <Card.Text>
