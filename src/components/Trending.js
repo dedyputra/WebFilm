@@ -9,7 +9,7 @@ const Trending = () => {
           <Col className="movieImage">
             <Card className="text-dark text-center movieImage">
               <Image src={alenaImage} alt="Alena Movie" />
-              <Card.Title>ALENA</Card.Title>
+              <Card.Title>ALENA Kuy</Card.Title>
               <Card.Text>
               </Card.Text>
               <Card.Text></Card.Text>

@@ -6,7 +6,7 @@ const Intro = () => {
       <Container className="text-white text-center d-flex justify-content-center align-items-center">
         <Row>
           <Col>
-            <div className="title">WELCOME DEDYMOVIE</div>
+            <div className="title">WELCOME FILM MOVIE</div>
             <div className="title">NONTON FILM FREE SAMBIL REBAHAN</div>
             <div className="Button mt-4 text-center">
               <Button variant="dark">LIHAT SEMUA LIST FILM</Button>
